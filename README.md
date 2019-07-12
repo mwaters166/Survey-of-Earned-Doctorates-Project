@@ -1,7 +1,9 @@
 # Survey-of-Earned-Doctorates-Project
-Goal: Graph Survey of Earned Doctorates Data by Year, Ethnicity/Race, and Field of Degree Awarded
+Goal: 
+Graph Survey of Earned Doctorates Data by Year, Ethnicity/Race, and Field of Degree Awarded
 
-Purpose: Developing strategies to increase diversity in higher education and retain underrepresented minorities (URMs) until graduation is an important task (especially in STEM fields). Therefore, we need to understand current trends in URM graduation numbers in graduate education.
+Purpose: 
+Developing strategies to increase diversity in higher education and retaining underrepresented minorities (URMs) until graduation (especially in STEM fields) are important tasks. Therefore, we need to understand current trends in URM graduation numbers over time in higher education, so that we might better assess progress, isolate effective retention mechanisms, and set goals for the future.   
 
 The data table in the repository was adapted from Table 23: "U.S. citizen and permanent resident doctorate recipients, by broad field of study, ethnicity, and race: Selected years, 1997–2017" from the NSF website. The code outputs graphs of Percentage of Earned Doctorate Degrees (of total degrees awarded for the year) VS. Year (from 1997-2017), and graphs are broken down by field/educational department. 
 
