@@ -1,0 +1,406 @@
+﻿Year,Field,Ethnicity,Number,Total,Percentage
+1997,All fields,All ethnicities (US Citizens),31097,31097,100
+1997,All fields,Hispanic or Latino,1203,31097,3.868540374
+1997,All fields,American Indian or Alaska Native,167,31097,0.537029295
+1997,All fields,Asian,3109,31097,9.997748979
+1997,All fields,Black or African American,1476,31097,4.746438563
+1997,All fields,White,23964,31097,77.06209602
+1997,All fields,More than one race,,31097,
+1997,All fields,Other race or race not reported,509,31097,1.636813841
+1997,All fields,Ethnicity not reported,669,31097,2.151332926
+1997,Life sciences,All ethnicities (US Citizens),5987,31097,19.25266103
+1997,Life sciences,Hispanic or Latino,207,31097,0.665659067
+1997,Life sciences,American Indian or Alaska Native,18,31097,0.057883397
+1997,Life sciences,Asian,888,31097,2.855580924
+1997,Life sciences,Black or African American,198,31097,0.636717368
+1997,Life sciences,White,4517,31097,14.52551693
+1997,Life sciences,More than one race,,31097,
+1997,Life sciences,Other race or race not reported,84,31097,0.27012252
+1997,Life sciences,Ethnicity not reported,75,31097,0.241180821
+1997,Physical sciences and earth sciences,All ethnicities (US Citizens),3034,31097,9.756568158
+1997,Physical sciences and earth sciences,Hispanic or Latino,86,31097,0.276554008
+1997,Physical sciences and earth sciences,American Indian or Alaska Native,12,31097,0.038588931
+1997,Physical sciences and earth sciences,Asian,459,31097,1.476026626
+1997,Physical sciences and earth sciences,Black or African American,57,31097,0.183297424
+1997,Physical sciences and earth sciences,White,2316,31097,7.447663762
+1997,Physical sciences and earth sciences,More than one race,,31097,
+1997,Physical sciences and earth sciences,Other race or race not reported,52,31097,0.167218703
+1997,Physical sciences and earth sciences,Ethnicity not reported,52,31097,0.167218703
+1997,Mathematics and computer sciences,All ethnicities (US Citizens),1150,31097,3.698105927
+1997,Mathematics and computer sciences,Hispanic or Latino,36,31097,0.115766794
+1997,Mathematics and computer sciences,American Indian or Alaska Native,2,31097,0.006431489
+1997,Mathematics and computer sciences,Asian,204,31097,0.656011834
+1997,Mathematics and computer sciences,Black or African American,11,31097,0.035373187
+1997,Mathematics and computer sciences,White,841,31097,2.704440943
+1997,Mathematics and computer sciences,More than one race,,31097,
+1997,Mathematics and computer sciences,Other race or race not reported,22,31097,0.070746374
+1997,Mathematics and computer sciences,Ethnicity not reported,34,31097,0.109335306
+1997,Psychology and social sciences,All ethnicities (US Citizens),5796,31097,18.63845387
+1997,Psychology and social sciences,Hispanic or Latino,265,31097,0.852172235
+1997,Psychology and social sciences,American Indian or Alaska Native,35,31097,0.11255105
+1997,Psychology and social sciences,Asian,351,31097,1.128726244
+1997,Psychology and social sciences,Black or African American,299,31097,0.961507541
+1997,Psychology and social sciences,White,4588,31097,14.75383478
+1997,Psychology and social sciences,More than one race,,31097,
+1997,Psychology and social sciences,Other race or race not reported,118,31097,0.379457826
+1997,Psychology and social sciences,Ethnicity not reported,140,31097,0.4502042
+1997,Engineering,All ethnicities (US Citizens),3333,31097,10.7180757
+1997,Engineering,Hispanic or Latino,97,31097,0.311927196
+1997,Engineering,American Indian or Alaska Native,17,31097,0.054667653
+1997,Engineering,Asian,707,31097,2.273531209
+1997,Engineering,Black or African American,98,31097,0.31514294
+1997,Engineering,White,2287,31097,7.354407178
+1997,Engineering,More than one race,,31097,
+1997,Engineering,Other race or race not reported,65,31097,0.209023378
+1997,Engineering,Ethnicity not reported,62,31097,0.199376146
+1997,Education,All ethnicities (US Citizens),5748,31097,18.48409814
+1997,Education,Hispanic or Latino,257,31097,0.826446281
+1997,Education,American Indian or Alaska Native,51,31097,0.164002958
+1997,Education,Asian,180,31097,0.578833971
+1997,Education,Black or African American,553,31097,1.778306589
+1997,Education,White,4460,31097,14.34221951
+1997,Education,More than one race,,31097,
+1997,Education,Other race or race not reported,65,31097,0.209023378
+1997,Education,Ethnicity not reported,182,31097,0.58526546
+1997,Humanities and arts,All ethnicities (US Citizens),4452,31097,14.31649355
+1997,Humanities and arts,Hispanic or Latino,212,31097,0.681737788
+1997,Humanities and arts,American Indian or Alaska Native,20,31097,0.064314886
+1997,Humanities and arts,Asian,192,31097,0.617422903
+1997,Humanities and arts,Black or African American,158,31097,0.508087597
+1997,Humanities and arts,White,3696,31097,11.88539087
+1997,Humanities and arts,More than one race,,31097,
+1997,Humanities and arts,Other race or race not reported,84,31097,0.27012252
+1997,Humanities and arts,Ethnicity not reported,90,31097,0.289416986
+1997,Other,All ethnicities (US Citizens),1597,31097,5.135543622
+1997,Other,Hispanic or Latino,43,31097,0.138277004
+1997,Other,American Indian or Alaska Native,12,31097,0.038588931
+1997,Other,Asian,128,31097,0.411615268
+1997,Other,Black or African American,102,31097,0.328005917
+1997,Other,White,1259,31097,4.048622054
+1997,Other,More than one race,,31097,
+1997,Other,Other race or race not reported,19,31097,0.061099141
+1997,Other,Ethnicity not reported,34,31097,0.109335306
+2002,All fields,All ethnicities (US Citizens),27737,27737,100
+2002,All fields,Hispanic or Latino,1370,27737,4.93925082
+2002,All fields,American Indian or Alaska Native,142,27737,0.511951545
+2002,All fields,Asian,2091,27737,7.538666763
+2002,All fields,Black or African American,1666,27737,6.006417421
+2002,All fields,White,21035,27737,75.8373292
+2002,All fields,More than one race,269,27737,0.969823701
+2002,All fields,Other race or race not reported,387,27737,1.395248224
+2002,All fields,Ethnicity not reported,777,27737,2.801312326
+2002,Life sciences,All ethnicities (US Citizens),5850,27737,21.09096153
+2002,Life sciences,Hispanic or Latino,237,27737,0.854454339
+2002,Life sciences,American Indian or Alaska Native,16,27737,0.057684681
+2002,Life sciences,Asian,677,27737,2.44078307
+2002,Life sciences,Black or African American,206,27737,0.742690269
+2002,Life sciences,White,4474,27737,16.13007896
+2002,Life sciences,More than one race,40,27737,0.144211703
+2002,Life sciences,Other race or race not reported,77,27737,0.277607528
+2002,Life sciences,Ethnicity not reported,123,27737,0.443450986
+2002,Physical sciences and earth sciences,All ethnicities (US Citizens),2358,27737,8.501279879
+2002,Physical sciences and earth sciences,Hispanic or Latino,77,27737,0.277607528
+2002,Physical sciences and earth sciences,American Indian or Alaska Native,7,27737,0.025237048
+2002,Physical sciences and earth sciences,Asian,217,27737,0.782348488
+2002,Physical sciences and earth sciences,Black or African American,71,27737,0.255975772
+2002,Physical sciences and earth sciences,White,1896,27737,6.835634712
+2002,Physical sciences and earth sciences,More than one race,22,27737,0.079316437
+2002,Physical sciences and earth sciences,Other race or race not reported,36,27737,0.129790533
+2002,Physical sciences and earth sciences,Ethnicity not reported,32,27737,0.115369362
+2002,Mathematics and computer sciences,All ethnicities (US Citizens),868,27737,3.12939395
+2002,Mathematics and computer sciences,Hispanic or Latino,26,27737,0.093737607
+2002,Mathematics and computer sciences,American Indian or Alaska Native,5,27737,0.018026463
+2002,Mathematics and computer sciences,Asian,114,27737,0.411003353
+2002,Mathematics and computer sciences,Black or African American,31,27737,0.11176407
+2002,Mathematics and computer sciences,White,653,27737,2.354256048
+2002,Mathematics and computer sciences,More than one race,7,27737,0.025237048
+2002,Mathematics and computer sciences,Other race or race not reported,11,27737,0.039658218
+2002,Mathematics and computer sciences,Ethnicity not reported,21,27737,0.075711144
+2002,Psychology and social sciences,All ethnicities (US Citizens),5363,27737,19.33518405
+2002,Psychology and social sciences,Hispanic or Latino,314,27737,1.132061867
+2002,Psychology and social sciences,American Indian or Alaska Native,34,27737,0.122579947
+2002,Psychology and social sciences,Asian,277,27737,0.998666042
+2002,Psychology and social sciences,Black or African American,337,27737,1.214983596
+2002,Psychology and social sciences,White,4131,27737,14.8934636
+2002,Psychology and social sciences,More than one race,59,27737,0.212712262
+2002,Psychology and social sciences,Other race or race not reported,73,27737,0.263186358
+2002,Psychology and social sciences,Ethnicity not reported,138,27737,0.497530375
+2002,Engineering,All ethnicities (US Citizens),2169,27737,7.819879583
+2002,Engineering,Hispanic or Latino,98,27737,0.353318672
+2002,Engineering,American Indian or Alaska Native,6,27737,0.021631755
+2002,Engineering,Asian,406,27737,1.463748783
+2002,Engineering,Black or African American,83,27737,0.299239283
+2002,Engineering,White,1465,27737,5.281753614
+2002,Engineering,More than one race,19,27737,0.068500559
+2002,Engineering,Other race or race not reported,38,27737,0.137001118
+2002,Engineering,Ethnicity not reported,54,27737,0.194685799
+2002,Education,All ethnicities (US Citizens),5417,27737,19.52986985
+2002,Education,Hispanic or Latino,321,27737,1.157298915
+2002,Education,American Indian or Alaska Native,42,27737,0.151422288
+2002,Education,Asian,135,27737,0.486714497
+2002,Education,Black or African American,641,27737,2.310992537
+2002,Education,White,3914,27737,14.11111512
+2002,Education,More than one race,51,27737,0.183869921
+2002,Education,Other race or race not reported,66,27737,0.23794931
+2002,Education,Ethnicity not reported,247,27737,0.890507265
+2002,Humanities and arts,All ethnicities (US Citizens),4320,27737,15.5748639
+2002,Humanities and arts,Hispanic or Latino,250,27737,0.901323142
+2002,Humanities and arts,American Indian or Alaska Native,21,27737,0.075711144
+2002,Humanities and arts,Asian,185,27737,0.666979125
+2002,Humanities and arts,Black or African American,163,27737,0.587662689
+2002,Humanities and arts,White,3463,27737,12.48512817
+2002,Humanities and arts,More than one race,59,27737,0.212712262
+2002,Humanities and arts,Other race or race not reported,66,27737,0.23794931
+2002,Humanities and arts,Ethnicity not reported,113,27737,0.40739806
+2002,Other,All ethnicities (US Citizens),1392,27737,5.018567257
+2002,Other,Hispanic or Latino,47,27737,0.169448751
+2002,Other,American Indian or Alaska Native,11,27737,0.039658218
+2002,Other,Asian,80,27737,0.288423406
+2002,Other,Black or African American,134,27737,0.483109204
+2002,Other,White,1039,27737,3.74589898
+2002,Other,More than one race,12,27737,0.043263511
+2002,Other,Other race or race not reported,20,27737,0.072105851
+2002,Other,Ethnicity not reported,49,27737,0.176659336
+2007,All fields,All ethnicities (US Citizens),29501,29501,100
+2007,All fields,Hispanic or Latino,1655,29501,5.609979323
+2007,All fields,American Indian or Alaska Native,140,29501,0.474560184
+2007,All fields,Asian,2308,29501,7.823463611
+2007,All fields,Black or African American,1891,29501,6.409952205
+2007,All fields,White,22067,29501,74.80085421
+2007,All fields,More than one race,505,29501,1.711806379
+2007,All fields,Other race or race not reported,304,29501,1.030473543
+2007,All fields,Ethnicity not reported,631,29501,2.138910545
+2007,Life sciences,All ethnicities (US Citizens),7009,29501,23.75851666
+2007,Life sciences,Hispanic or Latino,356,29501,1.206738755
+2007,Life sciences,American Indian or Alaska Native,30,29501,0.101691468
+2007,Life sciences,Asian,725,29501,2.457543812
+2007,Life sciences,Black or African American,316,29501,1.071150131
+2007,Life sciences,White,5301,29501,17.96888241
+2007,Life sciences,More than one race,113,29501,0.383037863
+2007,Life sciences,Other race or race not reported,71,29501,0.240669808
+2007,Life sciences,Ethnicity not reported,97,29501,0.328802413
+2007,Physical sciences and earth sciences,All ethnicities (US Citizens),2567,29501,8.701399953
+2007,Physical sciences and earth sciences,Hispanic or Latino,114,29501,0.386427579
+2007,Physical sciences and earth sciences,American Indian or Alaska Native,6,29501,0.020338294
+2007,Physical sciences and earth sciences,Asian,203,29501,0.688112267
+2007,Physical sciences and earth sciences,Black or African American,90,29501,0.305074404
+2007,Physical sciences and earth sciences,White,2029,29501,6.877732958
+2007,Physical sciences and earth sciences,More than one race,43,29501,0.145757771
+2007,Physical sciences and earth sciences,Other race or race not reported,34,29501,0.11525033
+2007,Physical sciences and earth sciences,Ethnicity not reported,48,29501,0.162706349
+2007,Mathematics and computer sciences,All ethnicities (US Citizens),1241,29501,4.206637063
+2007,Mathematics and computer sciences,Hispanic or Latino,41,29501,0.13897834
+2007,Mathematics and computer sciences,American Indian or Alaska Native,3,29501,0.010169147
+2007,Mathematics and computer sciences,Asian,175,29501,0.593200231
+2007,Mathematics and computer sciences,Black or African American,49,29501,0.166096065
+2007,Mathematics and computer sciences,White,918,29501,3.111758923
+2007,Mathematics and computer sciences,More than one race,14,29501,0.047456018
+2007,Mathematics and computer sciences,Other race or race not reported,22,29501,0.074573743
+2007,Mathematics and computer sciences,Ethnicity not reported,19,29501,0.064404596
+2007,Psychology and social sciences,All ethnicities (US Citizens),5272,29501,17.87058066
+2007,Psychology and social sciences,Hispanic or Latino,350,29501,1.186400461
+2007,Psychology and social sciences,American Indian or Alaska Native,40,29501,0.135588624
+2007,Psychology and social sciences,Asian,314,29501,1.064370699
+2007,Psychology and social sciences,Black or African American,320,29501,1.084708993
+2007,Psychology and social sciences,White,3923,29501,13.29785431
+2007,Psychology and social sciences,More than one race,122,29501,0.413545304
+2007,Psychology and social sciences,Other race or race not reported,51,29501,0.172875496
+2007,Psychology and social sciences,Ethnicity not reported,152,29501,0.515236772
+2007,Engineering,All ethnicities (US Citizens),2546,29501,8.630215925
+2007,Engineering,Hispanic or Latino,126,29501,0.427104166
+2007,Engineering,American Indian or Alaska Native,7,29501,0.023728009
+2007,Engineering,Asian,394,29501,1.335547948
+2007,Engineering,Black or African American,92,29501,0.311853835
+2007,Engineering,White,1790,29501,6.067590929
+2007,Engineering,More than one race,47,29501,0.159316633
+2007,Engineering,Other race or race not reported,32,29501,0.108470899
+2007,Engineering,Ethnicity not reported,58,29501,0.196603505
+2007,Education,All ethnicities (US Citizens),5358,29501,18.1620962
+2007,Education,Hispanic or Latino,343,29501,1.162672452
+2007,Education,American Indian or Alaska Native,37,29501,0.125419477
+2007,Education,Asian,177,29501,0.599979662
+2007,Education,Black or African American,711,29501,2.410087794
+2007,Education,White,3852,29501,13.0571845
+2007,Education,More than one race,76,29501,0.257618386
+2007,Education,Other race or race not reported,32,29501,0.108470899
+2007,Education,Ethnicity not reported,130,29501,0.440663028
+2007,Humanities and arts,All ethnicities (US Citizens),3894,29501,13.19955256
+2007,Humanities and arts,Hispanic or Latino,251,29501,0.850818616
+2007,Humanities and arts,American Indian or Alaska Native,11,29501,0.037286872
+2007,Humanities and arts,Asian,205,29501,0.694891699
+2007,Humanities and arts,Black or African American,175,29501,0.593200231
+2007,Humanities and arts,White,3064,29501,10.38608861
+2007,Humanities and arts,More than one race,67,29501,0.227110945
+2007,Humanities and arts,Other race or race not reported,42,29501,0.142368055
+2007,Humanities and arts,Ethnicity not reported,79,29501,0.267787533
+2007,Other,All ethnicities (US Citizens),1614,29501,5.471000983
+2007,Other,Hispanic or Latino,74,29501,0.250838955
+2007,Other,American Indian or Alaska Native,6,29501,0.020338294
+2007,Other,Asian,115,29501,0.389817294
+2007,Other,Black or African American,138,29501,0.467780753
+2007,Other,White,1190,29501,4.033761567
+2007,Other,More than one race,23,29501,0.077963459
+2007,Other,Other race or race not reported,20,29501,0.067794312
+2007,Other,Ethnicity not reported,48,29501,0.162706349
+2012,All fields,All ethnicities (US Citizens),32981,32981,100
+2012,All fields,Hispanic or Latino,2144,32981,6.500712531
+2012,All fields,American Indian or Alaska Native,104,32981,0.315333071
+2012,All fields,Asian,2943,32981,8.923319487
+2012,All fields,Black or African American,2055,32981,6.230860192
+2012,All fields,White,24010,32981,72.79949062
+2012,All fields,More than one race,807,32981,2.446863346
+2012,All fields,Other race or race not reported,293,32981,0.888390285
+2012,All fields,Ethnicity not reported,625,32981,1.895030472
+2012,Life sciences,All ethnicities (US Citizens),8184,32981,24.81428701
+2012,Life sciences,Hispanic or Latino,493,32981,1.494800036
+2012,Life sciences,American Indian or Alaska Native,24,32981,0.07276917
+2012,Life sciences,Asian,934,32981,2.831933537
+2012,Life sciences,Black or African American,448,32981,1.358357842
+2012,Life sciences,White,5880,32981,17.82844668
+2012,Life sciences,More than one race,215,32981,0.651890482
+2012,Life sciences,Other race or race not reported,79,32981,0.239531852
+2012,Life sciences,Ethnicity not reported,111,32981,0.336557412
+2012,Physical sciences and earth sciences,All ethnicities (US Citizens),3148,32981,9.544889482
+2012,Physical sciences and earth sciences,Hispanic or Latino,159,32981,0.482095752
+2012,Physical sciences and earth sciences,American Indian or Alaska Native,6,32981,0.018192293
+2012,Physical sciences and earth sciences,Asian,257,32981,0.77923653
+2012,Physical sciences and earth sciences,Black or African American,102,32981,0.309268973
+2012,Physical sciences and earth sciences,White,2470,32981,7.489160426
+2012,Physical sciences and earth sciences,More than one race,72,32981,0.21830751
+2012,Physical sciences and earth sciences,Other race or race not reported,23,32981,0.069737121
+2012,Physical sciences and earth sciences,Ethnicity not reported,59,32981,0.178890877
+2012,Mathematics and computer sciences,All ethnicities (US Citizens),1627,32981,4.933143325
+2012,Mathematics and computer sciences,Hispanic or Latino,74,32981,0.224371608
+2012,Mathematics and computer sciences,American Indian or Alaska Native,2,32981,0.006064098
+2012,Mathematics and computer sciences,Asian,200,32981,0.606409751
+2012,Mathematics and computer sciences,Black or African American,56,32981,0.16979473
+2012,Mathematics and computer sciences,White,1191,32981,3.611170068
+2012,Mathematics and computer sciences,More than one race,42,32981,0.127346048
+2012,Mathematics and computer sciences,Other race or race not reported,15,32981,0.045480731
+2012,Mathematics and computer sciences,Ethnicity not reported,47,32981,0.142506292
+2012,Psychology and social sciences,All ethnicities (US Citizens),6319,32981,19.15951609
+2012,Psychology and social sciences,Hispanic or Latino,542,32981,1.643370425
+2012,Psychology and social sciences,American Indian or Alaska Native,23,32981,0.069737121
+2012,Psychology and social sciences,Asian,437,32981,1.325005306
+2012,Psychology and social sciences,Black or African American,369,32981,1.118825991
+2012,Psychology and social sciences,White,4570,32981,13.85646281
+2012,Psychology and social sciences,More than one race,176,32981,0.533640581
+2012,Psychology and social sciences,Other race or race not reported,47,32981,0.142506292
+2012,Psychology and social sciences,Ethnicity not reported,155,32981,0.469967557
+2012,Engineering,All ethnicities (US Citizens),3579,32981,10.8517025
+2012,Engineering,Hispanic or Latino,190,32981,0.576089264
+2012,Engineering,American Indian or Alaska Native,6,32981,0.018192293
+2012,Engineering,Asian,556,32981,1.685819108
+2012,Engineering,Black or African American,150,32981,0.454807313
+2012,Engineering,White,2474,32981,7.501288621
+2012,Engineering,More than one race,75,32981,0.227403657
+2012,Engineering,Other race or race not reported,42,32981,0.127346048
+2012,Engineering,Ethnicity not reported,86,32981,0.260756193
+2012,Education,All ethnicities (US Citizens),4040,32981,12.24947697
+2012,Education,Hispanic or Latino,257,32981,0.77923653
+2012,Education,American Indian or Alaska Native,29,32981,0.087929414
+2012,Education,Asian,178,32981,0.539704678
+2012,Education,Black or African American,578,32981,1.752524181
+2012,Education,White,2835,32981,8.595858221
+2012,Education,More than one race,81,32981,0.245595949
+2012,Education,Other race or race not reported,24,32981,0.07276917
+2012,Education,Ethnicity not reported,58,32981,0.175858828
+2012,Humanities and arts,All ethnicities (US Citizens),4434,32981,13.44410418
+2012,Humanities and arts,Hispanic or Latino,331,32981,1.003608138
+2012,Humanities and arts,American Indian or Alaska Native,10,32981,0.030320488
+2012,Humanities and arts,Asian,206,32981,0.624602044
+2012,Humanities and arts,Black or African American,182,32981,0.551832873
+2012,Humanities and arts,White,3463,32981,10.49998484
+2012,Humanities and arts,More than one race,113,32981,0.342621509
+2012,Humanities and arts,Other race or race not reported,47,32981,0.142506292
+2012,Humanities and arts,Ethnicity not reported,82,32981,0.248627998
+2012,Other,All ethnicities (US Citizens),1650,32981,5.002880446
+2012,Other,Hispanic or Latino,98,32981,0.297140778
+2012,Other,American Indian or Alaska Native,4,32981,0.012128195
+2012,Other,Asian,175,32981,0.530608532
+2012,Other,Black or African American,170,32981,0.515448288
+2012,Other,White,1127,32981,3.417118947
+2012,Other,More than one race,33,32981,0.100057609
+2012,Other,Other race or race not reported,16,32981,0.04851278
+2012,Other,Ethnicity not reported,27,32981,0.081865316
+2017,All fields,All ethnicities (US Citizens),35791,35791,100
+2017,All fields,Hispanic or Latino,2540,35791,7.096756168
+2017,All fields,American Indian or Alaska Native,109,35791,0.304545836
+2017,All fields,Asian,3502,35791,9.784582716
+2017,All fields,Black or African American,2409,35791,6.730742365
+2017,All fields,White,24880,35791,69.51468246
+2017,All fields,More than one race,1016,35791,2.838702467
+2017,All fields,Other race or race not reported,471,35791,1.315973289
+2017,All fields,Ethnicity not reported,864,35791,2.414014696
+2017,Life sciences,All ethnicities (US Citizens),8857,35791,24.74644464
+2017,Life sciences,Hispanic or Latino,606,35791,1.693163086
+2017,Life sciences,American Indian or Alaska Native,25,35791,0.069849962
+2017,Life sciences,Asian,1014,35791,2.83311447
+2017,Life sciences,Black or African American,577,35791,1.612137129
+2017,Life sciences,White,6059,35791,16.92883686
+2017,Life sciences,More than one race,286,35791,0.799083568
+2017,Life sciences,Other race or race not reported,107,35791,0.298957839
+2017,Life sciences,Ethnicity not reported,183,35791,0.511301724
+2017,Physical sciences and earth sciences,All ethnicities (US Citizens),3717,35791,10.38529239
+2017,Physical sciences and earth sciences,Hispanic or Latino,216,35791,0.603503674
+2017,Physical sciences and earth sciences,American Indian or Alaska Native,6,35791,0.016763991
+2017,Physical sciences and earth sciences,Asian,357,35791,0.997457461
+2017,Physical sciences and earth sciences,Black or African American,94,35791,0.262635858
+2017,Physical sciences and earth sciences,White,2824,35791,7.890251739
+2017,Physical sciences and earth sciences,More than one race,112,35791,0.312927831
+2017,Physical sciences and earth sciences,Other race or race not reported,51,35791,0.142493923
+2017,Physical sciences and earth sciences,Ethnicity not reported,57,35791,0.159257914
+2017,Mathematics and computer sciences,All ethnicities (US Citizens),1746,35791,4.878321366
+2017,Mathematics and computer sciences,Hispanic or Latino,79,35791,0.220725881
+2017,Mathematics and computer sciences,American Indian or Alaska Native,1,35791,0.002793998
+2017,Mathematics and computer sciences,Asian,276,35791,0.771143584
+2017,Mathematics and computer sciences,Black or African American,49,35791,0.136905926
+2017,Mathematics and computer sciences,White,1181,35791,3.299712218
+2017,Mathematics and computer sciences,More than one race,50,35791,0.139699925
+2017,Mathematics and computer sciences,Other race or race not reported,40,35791,0.11175994
+2017,Mathematics and computer sciences,Ethnicity not reported,70,35791,0.195579894
+2017,Psychology and social sciences,All ethnicities (US Citizens),6874,35791,19.20594563
+2017,Psychology and social sciences,Hispanic or Latino,578,35791,1.614931128
+2017,Psychology and social sciences,American Indian or Alaska Native,26,35791,0.072643961
+2017,Psychology and social sciences,Asian,532,35791,1.486407197
+2017,Psychology and social sciences,Black or African American,531,35791,1.483613199
+2017,Psychology and social sciences,White,4763,35791,13.30781481
+2017,Psychology and social sciences,More than one race,205,35791,0.572769691
+2017,Psychology and social sciences,Other race or race not reported,68,35791,0.189991897
+2017,Psychology and social sciences,Ethnicity not reported,171,35791,0.477773742
+2017,Engineering,All ethnicities (US Citizens),4339,35791,12.12315945
+2017,Engineering,Hispanic or Latino,286,35791,0.799083568
+2017,Engineering,American Indian or Alaska Native,10,35791,0.027939985
+2017,Engineering,Asian,732,35791,2.045206896
+2017,Engineering,Black or African American,169,35791,0.472185745
+2017,Engineering,White,2818,35791,7.873487748
+2017,Engineering,More than one race,114,35791,0.318515828
+2017,Engineering,Other race or race not reported,66,35791,0.1844039
+2017,Engineering,Ethnicity not reported,144,35791,0.402335783
+2017,Education,All ethnicities (US Citizens),4047,35791,11.30731189
+2017,Education,Hispanic or Latino,331,35791,0.924813501
+2017,Education,American Indian or Alaska Native,22,35791,0.061467967
+2017,Education,Asian,224,35791,0.625855662
+2017,Education,Black or African American,595,35791,1.662429102
+2017,Education,White,2657,35791,7.423653991
+2017,Education,More than one race,83,35791,0.231901875
+2017,Education,Other race or race not reported,37,35791,0.103377944
+2017,Education,Ethnicity not reported,98,35791,0.273811852
+2017,Humanities and arts,All ethnicities (US Citizens),4290,35791,11.98625353
+2017,Humanities and arts,Hispanic or Latino,309,35791,0.863345534
+2017,Humanities and arts,American Indian or Alaska Native,16,35791,0.044703976
+2017,Humanities and arts,Asian,181,35791,0.505713727
+2017,Humanities and arts,Black or African American,148,35791,0.413511777
+2017,Humanities and arts,White,3354,35791,9.37107094
+2017,Humanities and arts,More than one race,115,35791,0.321309826
+2017,Humanities and arts,Other race or race not reported,77,35791,0.215137884
+2017,Humanities and arts,Ethnicity not reported,90,35791,0.251459864
+2017,Other,All ethnicities (US Citizens),1921,35791,5.367271102
+2017,Other,Hispanic or Latino,135,35791,0.377189796
+2017,Other,American Indian or Alaska Native,3,35791,0.008381995
+2017,Other,Asian,186,35791,0.519683719
+2017,Other,Black or African American,246,35791,0.687323629
+2017,Other,White,1224,35791,3.419854153
+2017,Other,More than one race,51,35791,0.142493923
+2017,Other,Other race or race not reported,25,35791,0.069849962
+2017,Other,Ethnicity not reported,51,35791,0.142493923
