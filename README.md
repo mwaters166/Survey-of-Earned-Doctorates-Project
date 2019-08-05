@@ -7,6 +7,8 @@ Developing strategies to increase diversity in higher education and retaining un
 
 The data table in the repository was adapted from Table 23: "U.S. citizen and permanent resident doctorate recipients, by broad field of study, ethnicity, and race: Selected years, 1997–2017" from the NSF website. The code outputs graphs of Percentage of Earned Doctorate Degrees (of total degrees awarded for the year) VS. Year (from 1997-2017), and graphs are broken down by field/educational department. 
 
+Code and graphs of data: https://github.com/mwaters166/Survey-of-Earned-Doctorates-Project/blob/master/EarnedDoctorates_Notebook.ipynb
+
 Link to original data files: https://ncses.nsf.gov/pubs/nsf19301/data
 
 Source(s):
